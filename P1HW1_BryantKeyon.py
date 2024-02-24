@@ -1,7 +1,7 @@
 # Keyon Bryant
 # 2/23/24
 # P1HW1
-#Description: Basic output with variables
+# Description: Basic output with variables
 
 #Use the input function to get an integer from the user. Assign the integer to a variable
 #Print the integer, the square of the integer, and the cube of the integer, each on a separate line
